@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "https://.github.io/csb-lxsue/static/css/main.56766165.chunk.css",
+    "main.js": "https://.github.io/csb-lxsue/static/js/main.ee58d3f6.chunk.js",
+    "main.js.map": "https://.github.io/csb-lxsue/static/js/main.ee58d3f6.chunk.js.map",
+    "runtime-main.js": "https://.github.io/csb-lxsue/static/js/runtime-main.9967c6b4.js",
+    "runtime-main.js.map": "https://.github.io/csb-lxsue/static/js/runtime-main.9967c6b4.js.map",
+    "static/css/2.cbedb215.chunk.css": "https://.github.io/csb-lxsue/static/css/2.cbedb215.chunk.css",
+    "static/js/2.ae0d3cc5.chunk.js": "https://.github.io/csb-lxsue/static/js/2.ae0d3cc5.chunk.js",
+    "static/js/2.ae0d3cc5.chunk.js.map": "https://.github.io/csb-lxsue/static/js/2.ae0d3cc5.chunk.js.map",
+    "index.html": "https://.github.io/csb-lxsue/index.html",
+    "static/css/2.cbedb215.chunk.css.map": "https://.github.io/csb-lxsue/static/css/2.cbedb215.chunk.css.map",
+    "static/css/main.56766165.chunk.css.map": "https://.github.io/csb-lxsue/static/css/main.56766165.chunk.css.map",
+    "static/js/2.ae0d3cc5.chunk.js.LICENSE.txt": "https://.github.io/csb-lxsue/static/js/2.ae0d3cc5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9967c6b4.js",
+    "static/css/2.cbedb215.chunk.css",
+    "static/js/2.ae0d3cc5.chunk.js",
+    "static/css/main.56766165.chunk.css",
+    "static/js/main.ee58d3f6.chunk.js"
+  ]
+}
